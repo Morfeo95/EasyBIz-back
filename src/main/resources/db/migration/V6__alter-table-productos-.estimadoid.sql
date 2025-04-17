@@ -1,0 +1,2 @@
+ALTER TABLE productos
+MODIFY COLUMN estimado_id BIGINT NULL;
